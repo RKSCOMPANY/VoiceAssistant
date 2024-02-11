@@ -6,11 +6,8 @@ Python:
 Acts as the core framework, handling things like:
 
 1) Speech recognition: Converting your spoken words into text using libraries like SpeechRecognition.
-
 2) Interaction logic: Deciding what actions to take based on your commands, using conditional statements and loops.
-
 3) Text-to-speech: Reading responses from ChatGPT back to you using libraries like pyttsx3 .
-
 4) Integration: Connecting to other APIs or services as needed, like playing music or controlling smart home devices.
 
 
